@@ -1,4 +1,4 @@
-# Proyecto Final Backend Coderhouse - Javier Maita
+# Proyecto Final Backend Coderhouse - Julian Fiumara
 
 Aqui se presenta mi proyecto final desarrollado a lo largo del curso de Backend en Coderhouse
 
